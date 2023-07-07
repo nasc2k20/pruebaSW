@@ -470,23 +470,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SanchezCorp\\.nuget\\packages\\": {},
+    "C:\\Users\\OficinaFarmacia\\.nuget\\packages\\": {},
     "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SanchezCorp\\source\\repos\\pruebaSW\\pruebaSW\\pruebaSW.vbproj",
+      "projectUniqueName": "C:\\Users\\OficinaFarmacia\\source\\repos\\pruebaSW\\pruebaSW\\pruebaSW.vbproj",
       "projectName": "pruebaSW",
-      "projectPath": "C:\\Users\\SanchezCorp\\source\\repos\\pruebaSW\\pruebaSW\\pruebaSW.vbproj",
-      "packagesPath": "C:\\Users\\SanchezCorp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SanchezCorp\\source\\repos\\pruebaSW\\pruebaSW\\obj\\",
+      "projectPath": "C:\\Users\\OficinaFarmacia\\source\\repos\\pruebaSW\\pruebaSW\\pruebaSW.vbproj",
+      "packagesPath": "C:\\Users\\OficinaFarmacia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\OficinaFarmacia\\source\\repos\\pruebaSW\\pruebaSW\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
       ],
       "configFilePaths": [
-        "C:\\Users\\SanchezCorp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\OficinaFarmacia\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -530,6 +530,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.13, 6.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.13, 6.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.13, 6.0.13]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.13, 6.0.13]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
